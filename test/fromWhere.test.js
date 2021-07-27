@@ -1,3 +1,6 @@
+let assert = require("assert");
+let fromWhere = require("../fromWhere");
+
 describe('fromWhere', function () {
     it('should return registration plates for Paarl that start with CY', function () {
         assert.equal(fromWhere('CY'),'Bellville');

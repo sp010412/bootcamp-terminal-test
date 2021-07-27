@@ -1,3 +1,6 @@
+let assert = require("assert");
+let isFromBellville = require("../isFromBellville");
+
 describe('isFromBellville' , function(){
     it('should return true for CY 212-880' , function(){
         assert.equal(isFromBellville('CY 212-880'),true);
