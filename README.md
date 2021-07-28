@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.com/sp010412/bootcamp-terminal-tests.svg?branch=main)](https://travis-ci.com/sp010412/bootcamp-terminal-tests)
+[![Build Status](https://travis-ci.com/sp010412/bootcamp-terminal-tests.svg?branch=gh-pages)](https://travis-ci.com/sp010412/bootcamp-terminal-tests)
