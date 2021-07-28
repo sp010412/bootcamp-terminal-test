@@ -1,5 +1,5 @@
 let assert = require("assert");
-let  = require("../");
+let greet = require("../greet");
 
 describe('Greet' , function(){
     it('should show you a greet message and name' , function(){

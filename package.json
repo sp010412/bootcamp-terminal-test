@@ -1,8 +1,7 @@
 {
-  "name": "bootcamp-terminal-test",
+  "name": "bootcamp-terminal-tests",
   "version": "1.0.0",
-  "description": "[![Build Status](https://app.travis-ci.com/sp010412/bootcamp-terminal-tests.svg?branch=gh-pages)](https://app.travis-ci.com/sp010412/bootcamp-terminal-tests)",
-  "main": "countAllFromTown.js",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
@@ -19,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/sp010412/bootcamp-terminal-tests/issues"
   },
-  "homepage": "https://github.com/sp010412/bootcamp-terminal-tests#readme"
+  "homepage": "https://github.com/sp010412/bootcamp-terminal-tests#readme",
+  "description": "",
+  "dependencies": {
+    "mocha": "^9.0.3"
+  }
 }
