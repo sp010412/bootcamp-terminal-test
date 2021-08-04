@@ -1,6 +1,6 @@
 module.exports = function countAllPaarl(regNo) {
     //console.log(regNo)
-    var array1 = regNo.split(', ');
+    var array1 = regNo.split(',');
     //console.log(array1)
     var array2 = [];
     for (var i = 0; i < array1.length; i++) {
